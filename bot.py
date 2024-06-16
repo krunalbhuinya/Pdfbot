@@ -9,7 +9,7 @@ from io import BytesIO
 import os
 
 
-bot = telebot.TeleBot("7127683041:AAGO9nVDbDDeeiLMD59ewIeo7D9GJY4SU9I")
+bot = telebot.TeleBot("7127683041:AAHwdupfSbVh2BRMPB1Sq1TaGfSzn-qrilw")
 channel_id = '@hackerpdfbotlog'
 
 @bot.message_handler(commands=['info', 'explainbot'])
